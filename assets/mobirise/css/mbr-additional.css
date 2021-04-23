@@ -14364,8 +14364,8 @@ blockquote {
   }
   .cid-svmLPNKBHB table th,
   .cid-svmLPNKBHB table td {
-    padding: .75rem;
-    font-size: 80%;
+    padding: 5px;
+    font-size: 70%;
   }
 }
 .cid-svmLPNKBHB .body-item {
