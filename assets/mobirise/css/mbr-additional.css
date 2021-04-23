@@ -14317,7 +14317,7 @@ blockquote {
   margin: 0 auto;
 }
 .cid-svmLPNKBHB table {
-  width: 88% !important;
+  width: 100% !important;
   margin-top: 6px;
   margin-bottom: 0;
 }
@@ -14332,6 +14332,7 @@ blockquote {
   border-top: none;
   color: white;
   vertical-align: middle;
+  background: #fafafa;
 }
 .cid-svmLPNKBHB table tr td {
   border-color: #c1c1c1;
@@ -14339,6 +14340,9 @@ blockquote {
 .cid-svmLPNKBHB table td {
   padding: 1.2rem 1.6rem;
   vertical-align: middle;
+}
+.cid-svmLPNKBHB table.table {
+  background: #fafafa;
 }
 .cid-svmLPNKBHB tr:hover {
   background-color: #ffffff !important;
@@ -14355,9 +14359,13 @@ blockquote {
   width: 100% !important;
 }
 @media (max-width: 767px) {
+  .cid-svmLPNKBHB table {
+    width: 100% !important;
+  }
   .cid-svmLPNKBHB table th,
   .cid-svmLPNKBHB table td {
     padding: .75rem;
+    font-size: 80%;
   }
 }
 .cid-svmLPNKBHB .body-item {
