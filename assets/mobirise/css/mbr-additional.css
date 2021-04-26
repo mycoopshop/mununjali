@@ -5475,7 +5475,7 @@ blockquote {
   height: 40%;
   background: rgba(217, 123, 41, 0.7);
   position: absolute;
-  top: 4%;
+  top: 6%;
   -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
@@ -14124,7 +14124,7 @@ blockquote {
 }
 .cid-svJusf8qWN {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 135px;
   background-color: #fff3e9;
 }
 .cid-svJusf8qWN h4 {
@@ -14225,6 +14225,7 @@ blockquote {
   overflow: hidden;
   height: 100%;
   position: relative;
+  margin-top: -30px;
   background-color: #ffffff;
   padding: 0.3rem 1.2rem 1.2rem 1.2rem;
   border-radius: 8px;
@@ -14351,7 +14352,7 @@ blockquote {
 }
 .cid-svJwp973Ka {
   overflow: hidden;
-  padding-top: 5rem;
+  padding-top: 8rem;
   padding-bottom: 0rem;
   background-color: #fff3e9;
 }
@@ -14469,19 +14470,19 @@ blockquote {
   color: #5f3913;
 }
 .cid-svmJdRrcYM {
-  padding-top: 6rem;
+  padding-top: 8rem;
   padding-bottom: 6rem;
   background-color: #fff3e9;
 }
 @media (max-width: 1000px) {
   .cid-svmJdRrcYM {
-    padding-top: 3rem;
+    padding-top: 4rem;
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 768px) {
   .cid-svmJdRrcYM {
-    padding-top: 1.8rem;
+    padding-top: 2.4rem;
     padding-bottom: 1.8rem;
   }
 }
